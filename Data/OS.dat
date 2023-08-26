@@ -1,0 +1,61 @@
+Microsoft Windows 98	1998	397	175	Win	FAT
+BeOS 5 Personal Edition	1999	0	150	Be	FAT|BFS
+FreeBSD 4.8	2003	0	2120	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Microsoft Windows 98 SE	1999	402	220	Win	FAT
+Linux Mandrake 9.1	2003	0	4000	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Microsoft Windows Millenium	2000	450	532	Win	FAT
+ALT Linux 2.3 Compact	2004	0	2000	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Linux Mandrake 10	2004	0	5600	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Microsoft Windows XP Home	2001	432	1500	Win	FAT|NTFS
+ASP Linux 9.2	2004	0	3200	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Microsoft Windows 2000 Pro	1999	765	800	Win	FAT|NTFS
+Linux Red Hat 9	2003	0	2700	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Linux Mandrake 8.1	2001	0	2130	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Microsoft Windows NT 4.0	1996	604	189	Win	FAT|NTFS
+Linspire 2.0	2002	439	1300	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Microsoft Windows NT 3.51	1995	573	161	Win	FAT|NTFS
+FreeBSD 5.2.1	2004	0	2315	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Microsoft Windows XP Pro	2001	802	1600	Win	FAT|NTFS
+Slackware Linux 10.1	2004	0	4100	Lin	FAT|ReiserFS|Ext|XFS|JFS
+FreeBSD 5.3	2004	0	2720	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Microsoft Windows 2003 Server	2003	1032	1300	Win	FAT|NTFS
+FreeBSD 5.4	2005	0	3119	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Fedora Core 4	2005	0	6780	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Mandriva Linux 2005	2005	0	8144	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Gentoo Linux 1.4	2003	0	2228	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Linux Mandrake 7.1	2000	0	2130	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Debian Linux 2.2	2000	0	4520	Lin	FAT|ReiserFS|Ext|XFS|JFS
+ASP Linux 7.1	2001	0	2874	Lin	FAT|ReiserFS|Ext|XFS|JFS
+FreeBSD 4.3	2001	0	1200	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+ALT Linux 1.1	2001	0	2103	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Gentoo Linux 1.0	2002	0	1250	Lin	FAT|ReiserFS|Ext|XFS|JFS
+ALT Linux 2.0	2002	0	2103	Lin	FAT|ReiserFS|Ext|XFS|JFS
+SuSE Linux 8.0	2002	0	3565	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Debian Linux 3.0	2002	0	6520	Lin	FAT|ReiserFS|Ext|XFS|JFS
+ASP Linux 7.3	2002	0	4695	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Linux Mandrake 9.0	2002	0	3064	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Xandros Desktop OS 1.0	2002	0	2200	Lin	FAT|ReiserFS|Ext|XFS|JFS
+ALT Linux 2.2 Junior	2003	0	3214	Lin	FAT|ReiserFS|Ext|XFS|JFS
+ASP Linux 9	2003	0	4750	Lin	FAT|ReiserFS|Ext|XFS|JFS
+FreeBSD 5.1	2003	0	2400	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Linspire 4.0	2003	275	1329	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Xandros Desktop OS 2.0	2003	0	2243	Lin	FAT|ReiserFS|Ext|XFS|JFS
+OpenBSD 3.4	2003	0	2150	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Fedora Core 1	2003	0	2950	Lin	FAT|ReiserFS|Ext|XFS|JFS
+OpenBSD 3.5	2004	0	2206	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Xandros Desktop OS 2.5	2004	0	2270	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Microsoft Windows Vista Beta 1	2005	0	2100	Win	NTFS
+Gentoo Linux 2004.3	2004	0	1340	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Gentoo Linux 2005.1	2005	0	1500	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Mandriva Linux 2006	2005	0	7420	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Novell SuSE 10	2005	0	6150	Lin	FAT|ReiserFS|Ext|XFS|JFS
+eComStation 1.2	2004	479	1720	OS/2	FAT|HPFS|JFS
+eComStation 1.1	2003	468	1548	OS/2	FAT|HPFS|JFS
+eComStation 1.05	2002	455	986	OS/2	FAT|HPFS|JFS
+Turbolinux FUJI v.11	2005	0	4325	Lin	FAT|ReiserFS|Ext|XFS|JFS
+Microsoft Windows 2003 Server R2	2006	1251	1500	Win	FAT|NTFS
+Fedora Core 5	2006	0	7328	Lin	FAT|ReiserFS|Ext|XFS|JFS
+PC-BSD 1.0	2006	0	1453	BSD	FAT|ReiserFS|Ext|XFS|JFS|UFS|FFS
+Microsoft Windows Vista Beta 2	2006	0	7754	Win	NTFS
+Microsoft Windows Vista pre-RC1	2006	0	8326	Win	NTFS
+Vector Linux 5.1	2006	0	1689	Lin	FAT|ReiserFS|Ext|XFS|JFS

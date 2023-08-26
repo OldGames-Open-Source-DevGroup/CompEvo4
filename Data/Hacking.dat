@@ -1,0 +1,11 @@
+Переборщик паролей	2000	477	1	Win|Lin|BSD|Be|OS/2	scanpas
+Сканер портов	2000	529	1	Win|Lin|BSD	ports
+Anti-firewall	2000	792	2	Win|Lin|BSD	afire
+Удаленный отладчик	2000	919	8	Win|Lin|BSD	rcontrol
+Stealth-маскировка	2000	1530	4	Lin|BSD	stealth
+Flood-ping	2000	315	1	Win|Lin|BSD|Be|OS/2	fping
+Сканер ОС	2000	392	4	Lin|BSD	osinfo
+Сетевой вирус	2000	823	2	Win|OS/2	nv
+Детектор firewall	2000	1438	3	Lin|BSD	sfscan
+Antivirus-destroyer	2000	1782	9	Win	avunload
+FormatBCE	2000	1583	7	Win	fmtall
