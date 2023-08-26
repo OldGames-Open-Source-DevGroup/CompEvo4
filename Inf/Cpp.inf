@@ -1,0 +1,38 @@
+#include <iostream.h>
+
+  template <class T> class Array
+  {
+  public: Array (T Size=1) : M (new T[Size]), 
+N(Size), n(0) {}
+          Array (void) { delete [] Ì;}
+    T Count (void) const { return n; }
+    T operator [] (int i) const { return M[i]; }
+    void Add (Ò Data);
+  private:
+    T* Ì;
+    int N, n;
+  };
+
+  template <class T> void Array<T>::Add( T 
+Data )
+  { if (N-n)
+    { int* P = new T[N+=10];
+      for (int i=0; i<n; ++i)
+        P[i] = M[i];
+      delete [ ] Ì;
+      Ì = P;
+    }
+    Ì[n++] = Data;
+  }
+
+  void main (void)
+  { Array<int> A;
+    while (1)
+    { int N;
+      cin >> N;
+      if (cin.eof()) break;
+    A.Add( N );
+    }
+    for (int N=A.Count()-1; N>=0; -N)
+      if ( A[N]%2)
+        cout <<A[N] <<"\n";

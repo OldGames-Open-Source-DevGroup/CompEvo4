@@ -1,0 +1,46 @@
+.386
+.model flat, stdcall
+option casemap :none   ; case sensitive
+include \masm32\include\windows.inc
+include \masm32\include\user32.inc
+include \masm32\include\kernel32.inc
+include \masm32\include\comdlg32.inc
+includelib \masm32\lib\user32.lib
+includelib \masm32\lib\kernel32.lib
+includelib \masm32\lib\comdlg32.lib
+IDD_DIALOG1=100
+IDC_EDIT1=3000
+IDC_EDIT2=3001
+IDC_BUTTON1=3002
+IDC_BUTTON2=3003
+DialogProc PROTO :DWORD,:DWORD,:DWORD,:DWORD
+.data
+hwnd dd	?
+MemHandle dd ?
+MemPoint  dd ?
+FileHandle dd ?
+BytesReaded dd ?
+OpDo  db      0
+filename db 260d dup (0)
+password db 21d dup (0)
+
+@@rep2:
+        xor     eax,eax
+        lodsb
+        xor     ebx,ebx
+        mov     bl, [edi]
+        or      bl,bl
+        jnz     @@nex4
+        mov     edi,offset password
+        mov     bl, [edi]
+@@nex4:
+        inc     edi
+	xor	al,cl
+	sub	al,ch
+        xor     al,bl
+        mov     [esi-1],al
+        inc     esi
+        loopd    @@rep2
+
+@@Next1:
+        invoke WriteFile,[FileHandle],[MemPoint],[BytesReaded],offset BytesReaded,NULL

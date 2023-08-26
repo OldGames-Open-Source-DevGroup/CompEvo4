@@ -1,0 +1,6 @@
+[Software]
+FileManager=Проводник
+FileManagerRun=explorer
+Defragmenter=Стандартный
+DiskOperator=fdisk
+Browser=Internet Explorer
